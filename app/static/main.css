@@ -1,0 +1,19 @@
+body, html {
+			height: 100%;
+			margin: 0;
+		}
+
+.container {
+	display: flex;
+	justify-content: center; /* Horizontal alignment */
+	align-items: center; /* Vertical alignment */
+	height: 100vh;
+	background-color: lightgray;
+}
+
+.center-div {
+	width: 50%;
+	background-color: lightblue;
+	text-align: center;
+}
+
